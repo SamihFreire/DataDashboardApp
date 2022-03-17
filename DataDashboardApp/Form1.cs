@@ -13,7 +13,7 @@ namespace DataDashboardApp
 {
     public partial class Form1 : Form
     {
-        //Fields
+        
         private Dashboard model;
 
         //Constructor

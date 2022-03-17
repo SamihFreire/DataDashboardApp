@@ -12,7 +12,7 @@ namespace DataDashboardApp.Db
         private readonly string connectionString;
 
         public DbConnection()
-        {
+        {   
             connectionString = "Server=(local); DataBase=NorthwindStore; User ID = Usuario; Password = Senha do Banco";
         }
 
